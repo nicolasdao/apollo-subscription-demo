@@ -41,8 +41,8 @@ subscription {
 
 Open your test client hosted on [http://localhost:3000/channel/1](http://localhost:3000/channel/1) and add a new item:
 
-![alt text](https://cdn-images-1.medium.com/max/1600/1*oYyCf2u9MNCikiAvlWwmiw.gif)
+![alt text](https://raw.githubusercontent.com/nicolasdao/apollo-subscription-demo/master/1-oYyCf2u9MNCikiAvlWwmiw.gif)
 
 As soon as you've added that item, you should see your GraphiQL receiving an update:
 
-![alt text](https://cdn-images-1.medium.com/max/1600/1*O8YVfjtXV44TAYsi7hTenA.gif)
+![alt text](https://raw.githubusercontent.com/nicolasdao/apollo-subscription-demo/master/1-O8YVfjtXV44TAYsi7hTenA.gif)
